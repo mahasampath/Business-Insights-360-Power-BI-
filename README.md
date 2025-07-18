@@ -115,7 +115,8 @@ Based on the received mockups, the team designed various views and created neces
 ## Home View: 
 A landing page with navigation buttons for all views.
 
-![HOME](https://github.com/user-attachments/assets/469039ef-90b9-4ab7-b225-c79d0f02b304)
+https://github.com/mahasampath/Business-Insights-360-Power-BI-/blob/main/Home%20page.png
+
 
 ## Info:
 
