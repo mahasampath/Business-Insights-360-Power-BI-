@@ -117,39 +117,36 @@ A landing page with navigation buttons for all views.
 
 https://github.com/mahasampath/Business-Insights-360-Power-BI-/blob/main/Home%20page.png
 
-
-## Info:
-
-![INFO](https://github.com/user-attachments/assets/ecfd0cd1-eab0-437d-b9cd-7ff8e721d448)
-
 ## Finance View: 
 Key financial metrics and insights.
 
-![FINANCE](https://github.com/user-attachments/assets/ad5a455a-07a4-409a-b461-93585f62249f)
+https://github.com/mahasampath/Business-Insights-360-Power-BI-/blob/main/Finance%20view.png
+
 
 ## Sales View:
 Sales performance across markets and channels.
 
-![SALES](https://github.com/user-attachments/assets/2294980c-1f53-41fd-bd49-c9f981b1f3ff)
+https://github.com/mahasampath/Business-Insights-360-Power-BI-/blob/main/Sales%20view.png
+
 
 ## Marketing View:
 Marketing KPIs and campaign performance.
 
- ![MARKETING](https://github.com/user-attachments/assets/ecb3e97c-d788-4a45-9694-06be1baf73e6)
+https://github.com/mahasampath/Business-Insights-360-Power-BI-/blob/main/Marketing%20view.png
+
  
 ## Supply Chain View: 
 Insights into the supply chain and inventory management.
 
-![SUPPLY CHAIN](https://github.com/user-attachments/assets/3f9b2520-e1be-4af5-98e3-c43c3605f1fe)
+https://github.com/mahasampath/Business-Insights-360-Power-BI-/blob/main/Supplychain%20view.png
+
 
 ## Executive View: 
 High-level executive summary of business performance.
 
-![EXECUTIVE](https://github.com/user-attachments/assets/0717c41f-734f-491e-a7d5-f5306b9e0f3c)
+https://github.com/mahasampath/Business-Insights-360-Power-BI-/blob/main/Executive%20view.png
 
-## Support:
 
-![SUPPORT](https://github.com/user-attachments/assets/3003b83b-5b5b-480f-adb9-ec8e7eb06861)
 
 
 ---
